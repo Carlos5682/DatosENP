@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Peralta_de_Alcofea",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

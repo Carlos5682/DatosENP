@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sequera_de_Fresno",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

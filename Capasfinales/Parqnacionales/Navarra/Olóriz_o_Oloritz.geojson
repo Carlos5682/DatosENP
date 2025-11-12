@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Olóriz_o_Oloritz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

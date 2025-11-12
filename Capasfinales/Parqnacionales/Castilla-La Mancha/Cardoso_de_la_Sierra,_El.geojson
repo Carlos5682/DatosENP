@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Cardoso_de_la_Sierra,_El",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

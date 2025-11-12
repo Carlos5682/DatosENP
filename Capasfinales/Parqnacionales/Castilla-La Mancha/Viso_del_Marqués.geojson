@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Viso_del_Marqués",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

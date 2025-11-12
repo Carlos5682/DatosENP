@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Hermandad_de_Campoo_de_Suso",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

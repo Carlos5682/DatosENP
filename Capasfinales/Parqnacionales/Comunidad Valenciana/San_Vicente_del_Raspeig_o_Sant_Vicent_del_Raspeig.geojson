@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "San_Vicente_del_Raspeig_o_Sant_Vicent_del_Raspeig",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

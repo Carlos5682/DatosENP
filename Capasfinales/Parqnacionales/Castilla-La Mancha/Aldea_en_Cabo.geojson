@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Aldea_en_Cabo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

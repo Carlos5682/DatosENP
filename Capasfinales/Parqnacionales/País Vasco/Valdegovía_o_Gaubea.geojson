@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Valdegovía_o_Gaubea",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Santa_María_de_Guía_de_Gran_Canaria",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

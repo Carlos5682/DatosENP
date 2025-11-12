@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Castiello_de_Jaca",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

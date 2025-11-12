@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Peraleda_de_San_Román",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Llucena_o_Lucena_del_Cid",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

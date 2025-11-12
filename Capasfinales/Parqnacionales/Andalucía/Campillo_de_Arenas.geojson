@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Campillo_de_Arenas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

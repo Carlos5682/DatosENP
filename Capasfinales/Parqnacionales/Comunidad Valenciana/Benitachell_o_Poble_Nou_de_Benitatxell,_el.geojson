@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Benitachell_o_Poble_Nou_de_Benitatxell,_el",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

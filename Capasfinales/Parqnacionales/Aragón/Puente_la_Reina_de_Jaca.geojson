@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Puente_la_Reina_de_Jaca",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

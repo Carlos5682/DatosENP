@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Peraleda_del_Zaucejo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

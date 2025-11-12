@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Velilla_del_Río_Carrión",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

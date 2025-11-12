@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Santanyí",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "SITE_NAME": "L'arxipèlag de Cabrera", "ODESIGNATE": "Parque Nacional", "NUT2": 53, "SITE_CODE_": "ES530002", "DESIG_ABBR": "ES08", "SITE_CDDA": "196045_CDDA", "Sup_ha": 91420.31253 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3735908.20192860905081, 1825150.336564120603725 ], [ 3738776.954579999204725, 1822443.749748905189335 ], [ 3738776.954579999204725, 1821855.508819999406114 ], [ 3732402.359946832992136, 1821855.508819999406114 ], [ 3735908.20192860905081, 1825150.336564120603725 ] ] ] } }
+]
+}

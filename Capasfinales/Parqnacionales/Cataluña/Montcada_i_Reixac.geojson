@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Montcada_i_Reixac",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

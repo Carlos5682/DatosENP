@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Santa_Cruz_de_Marchena",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "SITE_NAME": "Sierra Nevada", "ODESIGNATE": "Parque Nacional", "NUT2": 61, "SITE_CODE_": "ES610002", "DESIG_ABBR": "ES08", "SITE_CDDA": "389011_CDDA", "Sup_ha": 85882.894646000001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3190916.444228154607117, 1648031.476480718469247 ], [ 3190918.949730648193508, 1648027.0572033834178 ], [ 3190918.946077479515225, 1648027.058632981730625 ], [ 3190914.937515001278371, 1648028.594078999711201 ], [ 3190914.937515001278371, 1648034.133995787706226 ], [ 3190916.444228154607117, 1648031.476480718469247 ] ] ] } }
+]
+}

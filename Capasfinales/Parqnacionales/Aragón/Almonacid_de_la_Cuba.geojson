@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Almonacid_de_la_Cuba",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

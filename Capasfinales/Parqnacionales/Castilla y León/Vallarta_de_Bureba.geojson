@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Vallarta_de_Bureba",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

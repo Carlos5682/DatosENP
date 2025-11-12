@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Tiebas-Muruarte_de_Reta",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

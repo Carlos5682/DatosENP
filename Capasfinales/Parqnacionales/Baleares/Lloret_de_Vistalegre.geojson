@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Lloret_de_Vistalegre",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

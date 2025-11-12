@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Dios_le_Guarde",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

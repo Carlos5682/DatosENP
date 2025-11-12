@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sotillo_de_la_Adrada",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

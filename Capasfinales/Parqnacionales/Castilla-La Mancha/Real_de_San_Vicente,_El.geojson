@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Real_de_San_Vicente,_El",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

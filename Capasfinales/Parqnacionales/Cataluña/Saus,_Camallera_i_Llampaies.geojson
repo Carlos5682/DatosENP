@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Saus,_Camallera_i_Llampaies",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

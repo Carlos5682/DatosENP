@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Huerta_de_Valdecarábanos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Castillo_de_las_Guardas,_El",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

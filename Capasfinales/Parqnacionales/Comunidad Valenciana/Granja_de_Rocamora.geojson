@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Granja_de_Rocamora",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Baños_de_Río_Tobía",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Bahabón_de_Esgueva",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

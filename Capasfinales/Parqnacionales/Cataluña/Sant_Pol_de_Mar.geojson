@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sant_Pol_de_Mar",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

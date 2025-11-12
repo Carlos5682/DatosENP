@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Elburgo_o_Burgelu",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

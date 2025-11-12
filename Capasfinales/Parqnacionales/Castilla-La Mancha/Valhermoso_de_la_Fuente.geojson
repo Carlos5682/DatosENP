@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Valhermoso_de_la_Fuente",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

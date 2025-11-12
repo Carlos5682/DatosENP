@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Aldeamayor_de_San_Martín",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

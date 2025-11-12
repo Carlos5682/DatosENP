@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Vallbona_d'Anoia",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

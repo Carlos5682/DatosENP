@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Cruïlles,_Monells_i_Sant_Sadurní_de_l'Heura",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

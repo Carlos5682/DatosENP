@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sentiu_de_Sió,_La",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sant_Vicenç_de_Montalt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

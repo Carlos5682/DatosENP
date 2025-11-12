@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "San_Esteban_de_los_Patos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

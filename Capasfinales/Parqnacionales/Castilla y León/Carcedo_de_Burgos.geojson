@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Carcedo_de_Burgos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

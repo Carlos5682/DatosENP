@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Prats_i_Sansor",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Santa_Maria_de_Palautordera",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

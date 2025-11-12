@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Pajares_de_la_Lampreana",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

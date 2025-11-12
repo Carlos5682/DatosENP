@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Bernuy_de_Porreros",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

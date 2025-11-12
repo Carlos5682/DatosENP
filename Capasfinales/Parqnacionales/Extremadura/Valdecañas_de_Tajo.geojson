@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Valdecañas_de_Tajo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

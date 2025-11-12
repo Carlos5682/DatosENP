@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Cerratón_de_Juarros",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

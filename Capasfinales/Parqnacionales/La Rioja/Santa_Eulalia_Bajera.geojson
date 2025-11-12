@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Santa_Eulalia_Bajera",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

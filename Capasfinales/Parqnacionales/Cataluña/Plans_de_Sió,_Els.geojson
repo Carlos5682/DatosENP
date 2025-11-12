@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Plans_de_Sió,_Els",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

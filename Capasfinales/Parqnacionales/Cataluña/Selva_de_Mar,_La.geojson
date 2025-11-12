@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Selva_de_Mar,_La",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

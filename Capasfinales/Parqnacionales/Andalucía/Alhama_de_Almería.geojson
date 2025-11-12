@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Alhama_de_Almería",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

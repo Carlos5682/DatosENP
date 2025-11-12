@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Brime_de_Sog",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

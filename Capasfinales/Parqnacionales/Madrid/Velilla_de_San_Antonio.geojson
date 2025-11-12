@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Velilla_de_San_Antonio",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

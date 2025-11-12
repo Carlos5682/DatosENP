@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Florida_de_Liébana",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

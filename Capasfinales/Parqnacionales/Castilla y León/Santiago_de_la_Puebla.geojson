@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Santiago_de_la_Puebla",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "San_Cristóbal_de_la_Vega",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

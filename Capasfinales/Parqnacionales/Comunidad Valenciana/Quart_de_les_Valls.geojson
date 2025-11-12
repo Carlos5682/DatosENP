@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Quart_de_les_Valls",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Loma_de_Ucieza",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

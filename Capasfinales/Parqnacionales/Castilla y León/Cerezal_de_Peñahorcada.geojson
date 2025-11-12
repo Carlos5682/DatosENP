@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Cerezal_de_Peñahorcada",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Llanera_de_Ranes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

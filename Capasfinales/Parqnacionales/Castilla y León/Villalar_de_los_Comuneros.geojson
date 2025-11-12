@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Villalar_de_los_Comuneros",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

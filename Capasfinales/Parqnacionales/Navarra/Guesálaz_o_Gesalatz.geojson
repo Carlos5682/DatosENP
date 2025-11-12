@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Guesálaz_o_Gesalatz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

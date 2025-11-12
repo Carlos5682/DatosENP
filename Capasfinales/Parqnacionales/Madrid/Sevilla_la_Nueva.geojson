@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sevilla_la_Nueva",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

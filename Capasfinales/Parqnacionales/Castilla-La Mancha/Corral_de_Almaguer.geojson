@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Corral_de_Almaguer",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

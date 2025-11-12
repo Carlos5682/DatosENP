@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sorihuela_del_Guadalimar",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

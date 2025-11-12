@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Rebolledo_de_la_Torre",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Morales_del_Vino",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

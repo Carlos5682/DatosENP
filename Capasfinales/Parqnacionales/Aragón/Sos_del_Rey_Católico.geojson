@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sos_del_Rey_Católico",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

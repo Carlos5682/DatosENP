@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Laguna_de_Negrillos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Antas_de_Ulla",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

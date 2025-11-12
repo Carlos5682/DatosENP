@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Burgo_de_Osma-Ciudad_de_Osma",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

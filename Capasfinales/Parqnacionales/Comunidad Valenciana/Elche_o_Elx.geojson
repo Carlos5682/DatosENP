@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Elche_o_Elx",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

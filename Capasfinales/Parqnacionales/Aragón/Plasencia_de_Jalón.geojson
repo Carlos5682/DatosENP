@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Plasencia_de_Jalón",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

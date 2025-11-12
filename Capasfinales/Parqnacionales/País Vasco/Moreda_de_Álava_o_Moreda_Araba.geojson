@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Moreda_de_Álava_o_Moreda_Araba",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

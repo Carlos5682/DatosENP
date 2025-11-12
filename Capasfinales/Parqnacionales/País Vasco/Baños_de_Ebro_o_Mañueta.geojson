@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Baños_de_Ebro_o_Mañueta",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

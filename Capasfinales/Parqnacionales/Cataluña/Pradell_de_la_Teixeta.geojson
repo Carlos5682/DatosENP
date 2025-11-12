@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Pradell_de_la_Teixeta",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

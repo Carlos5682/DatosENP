@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Olías_del_Rey",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

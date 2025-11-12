@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Celada_del_Camino",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

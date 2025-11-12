@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Villamartín_de_Don_Sancho",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

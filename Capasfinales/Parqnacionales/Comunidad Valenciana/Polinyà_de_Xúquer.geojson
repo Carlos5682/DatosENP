@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Polinyà_de_Xúquer",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

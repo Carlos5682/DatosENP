@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Llorenç_del_Penedès",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

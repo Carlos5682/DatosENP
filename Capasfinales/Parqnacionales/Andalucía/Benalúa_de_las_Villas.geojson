@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Benalúa_de_las_Villas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

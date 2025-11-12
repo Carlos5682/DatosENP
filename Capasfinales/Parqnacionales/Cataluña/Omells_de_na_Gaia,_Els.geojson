@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Omells_de_na_Gaia,_Els",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

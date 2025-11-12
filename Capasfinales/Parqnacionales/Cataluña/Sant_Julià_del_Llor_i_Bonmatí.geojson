@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sant_Julià_del_Llor_i_Bonmatí",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

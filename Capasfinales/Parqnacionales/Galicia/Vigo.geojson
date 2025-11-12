@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Vigo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "SITE_NAME": "Islas Atlánticas de Galicia", "ODESIGNATE": "Parque Nacional", "NUT2": 11, "SITE_CODE_": "ES110001", "DESIG_ABBR": "ES08", "SITE_CDDA": "348806_CDDA", "Sup_ha": 8542.6203271199993 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2775072.788972145877779, 2315403.045667343772948 ], [ 2770899.689474073238671, 2313952.643370533362031 ], [ 2772072.406487065367401, 2324349.215222258586437 ], [ 2774891.116899049840868, 2322678.381178603041917 ], [ 2775072.788972145877779, 2315403.045667343772948 ] ] ] } }
+]
+}

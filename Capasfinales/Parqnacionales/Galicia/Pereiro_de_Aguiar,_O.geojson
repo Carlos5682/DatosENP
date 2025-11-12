@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Pereiro_de_Aguiar,_O",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

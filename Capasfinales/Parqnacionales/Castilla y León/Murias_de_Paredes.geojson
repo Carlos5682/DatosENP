@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Murias_de_Paredes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

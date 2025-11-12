@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Rasillo_de_Cameros,_El",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

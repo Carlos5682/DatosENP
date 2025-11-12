@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Torre_los_Negros",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Vandellòs_i_l'Hospitalet_de_l'Infant",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

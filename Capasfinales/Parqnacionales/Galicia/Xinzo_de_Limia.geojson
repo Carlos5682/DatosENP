@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Xinzo_de_Limia",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

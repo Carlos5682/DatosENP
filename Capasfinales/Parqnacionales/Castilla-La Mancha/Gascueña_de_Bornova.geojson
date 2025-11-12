@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Gascueña_de_Bornova",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Gallinero_de_Cameros",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

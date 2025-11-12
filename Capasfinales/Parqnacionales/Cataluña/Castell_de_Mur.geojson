@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Castell_de_Mur",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

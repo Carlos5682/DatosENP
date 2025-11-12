@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Parra_de_las_Vegas,_La",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Pinós,_el_o_Pinoso",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

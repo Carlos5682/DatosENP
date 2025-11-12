@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Santa_María_la_Real_de_Nieva",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

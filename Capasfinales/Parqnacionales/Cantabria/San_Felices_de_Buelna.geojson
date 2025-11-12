@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "San_Felices_de_Buelna",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

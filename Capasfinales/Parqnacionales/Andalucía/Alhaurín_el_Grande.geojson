@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Alhaurín_el_Grande",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

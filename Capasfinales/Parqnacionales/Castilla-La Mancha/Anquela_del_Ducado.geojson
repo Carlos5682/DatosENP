@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Anquela_del_Ducado",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

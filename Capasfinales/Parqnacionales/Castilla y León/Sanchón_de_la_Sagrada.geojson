@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sanchón_de_la_Sagrada",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

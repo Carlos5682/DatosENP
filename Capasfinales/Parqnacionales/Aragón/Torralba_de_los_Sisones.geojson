@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Torralba_de_los_Sisones",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

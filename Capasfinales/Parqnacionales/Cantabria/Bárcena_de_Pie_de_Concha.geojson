@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Bárcena_de_Pie_de_Concha",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Adrada_de_Pirón",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

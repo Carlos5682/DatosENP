@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Espluga_de_Francolí,_L'",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

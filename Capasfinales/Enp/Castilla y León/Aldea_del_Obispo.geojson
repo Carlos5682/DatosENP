@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Aldea_del_Obispo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "SITE_NAME": "Arribes del Duero", "ODESIGNATE": "Parque Natural", "NUT2": 41, "SITE_CODE_": "ES410002", "DESIG_ABBR": "ES10", "SITE_CDDA": "349215_CDDA", "Sup_ha": 106377.207522 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2913427.958453173749149, 2122250.81849499931559 ], [ 2913779.812794999685138, 2122250.81849499931559 ], [ 2913779.812794999685138, 2122096.664618777111173 ], [ 2913427.958453173749149, 2122250.81849499931559 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Romeral,_El",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "SITE_NAME": "Lagunas de el Longar, Altillo Grande y Altillo Chica", "ODESIGNATE": "Reserva Natural", "NUT2": 42, "SITE_CODE_": "ES425014", "DESIG_ABBR": "ES04", "SITE_CDDA": "349035_CDDA", "Sup_ha": 407.07576594400001 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ 3177407.526567141525447, 1945338.87724164663814 ], [ 3177414.336855000816286, 1945345.022544107399881 ], [ 3177414.336855000816286, 1945333.953315468272194 ], [ 3177407.526567141525447, 1945338.87724164663814 ] ] ], [ [ [ 3177412.097926679998636, 1945461.522314368980005 ], [ 3177414.336855000816286, 1945463.268777566030622 ], [ 3177414.336855000816286, 1945460.071922972332686 ], [ 3177412.097926679998636, 1945461.522314368980005 ] ] ] ] } }
+]
+}

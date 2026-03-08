@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Castrelo_de_Miño",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

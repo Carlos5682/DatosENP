@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Valle_de_las_Navas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

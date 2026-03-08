@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Ciutadilla",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "SITE_NAME": "Granyena", "ODESIGNATE": "Plan Especial de Protección (PEIN)", "NUT2": 51, "SITE_CODE_": "ES510254", "DESIG_ABBR": "ES43", "SITE_CDDA": "389231_CDDA", "Sup_ha": 6635.3926467000001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3583175.369075438473374, 2096701.286604775581509 ], [ 3583149.800444053951651, 2096742.727288196794689 ], [ 3583140.652062617707998, 2096757.680285000707954 ], [ 3583247.161952501162887, 2096757.680285000707954 ], [ 3583175.369075438473374, 2096701.286604775581509 ] ] ] } }
+]
+}

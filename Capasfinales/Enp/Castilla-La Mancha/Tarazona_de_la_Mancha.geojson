@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Tarazona_de_la_Mancha",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

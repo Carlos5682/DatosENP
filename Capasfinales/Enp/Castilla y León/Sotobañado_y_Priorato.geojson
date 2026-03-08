@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sotobañado_y_Priorato",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

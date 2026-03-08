@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Abaurrepea_o_Abaurrea_Baja",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

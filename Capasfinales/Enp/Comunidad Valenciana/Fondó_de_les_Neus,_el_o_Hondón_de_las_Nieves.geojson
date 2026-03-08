@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Fondó_de_les_Neus,_el_o_Hondón_de_las_Nieves",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

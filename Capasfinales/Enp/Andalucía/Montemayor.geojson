@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Montemayor",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "SITE_NAME": "Tramo Inferior del Río Guadajoz", "ODESIGNATE": "Zona de Importancia Comunitaria ZIC (ZEPA/ZEC)", "NUT2": 61, "SITE_CODE_": "ES6130008", "DESIG_ABBR": "ES49", "SITE_CDDA": "555588866_CDDA", "Sup_ha": 480.04503164800002 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3030168.304566498845816, 1750871.604473686544225 ], [ 3030165.317412143573165, 1750866.625673315022141 ], [ 3030151.970592795871198, 1750862.964024214772508 ], [ 3030138.372945707757026, 1750870.71071899519302 ], [ 3030135.687368345446885, 1750876.205110000446439 ], [ 3030169.863158732652664, 1750876.205110000446439 ], [ 3030168.304566498845816, 1750871.604473686544225 ] ] ] } }
+]
+}

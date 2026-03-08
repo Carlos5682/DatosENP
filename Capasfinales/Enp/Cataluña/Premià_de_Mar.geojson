@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Premià_de_Mar",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "SITE_NAME": "Conreria-Sant Mateu-Céllecs, la", "ODESIGNATE": "Plan Especial de Protección (PEIN)", "NUT2": 51, "SITE_CODE_": "ES510100", "DESIG_ABBR": "ES43", "SITE_CDDA": "389095_CDDA", "Sup_ha": 4727.2328157600004 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3679930.722956108860672, 2076745.242718650726601 ], [ 3679920.088540269061923, 2076745.793289631372318 ], [ 3679908.761464999057353, 2076745.749573368113488 ], [ 3679908.761464999057353, 2076758.389935000799596 ], [ 3679930.98834220552817, 2076758.389935000799596 ], [ 3679930.722956108860672, 2076745.242718650726601 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Muelas_de_los_Caballeros",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Ólvega",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "SITE_NAME": "Moncayo", "ODESIGNATE": "Parque Natural", "NUT2": 24, "SITE_CODE_": "ES243001", "DESIG_ABBR": "ES10", "SITE_CDDA": "348928_CDDA", "Sup_ha": 11153.3644405 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3336677.475624943617731, 2153685.179367223288864 ], [ 3336661.612672191113234, 2153695.148058044724166 ], [ 3336680.20630060788244, 2153904.092096381820738 ], [ 3336710.48568, 2153997.609215648379177 ], [ 3336710.48568, 2153675.271515781525522 ], [ 3336677.475624943617731, 2153685.179367223288864 ] ] ] } }
+]
+}

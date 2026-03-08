@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Ajangiz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "SITE_NAME": "Urdaibai", "ODESIGNATE": "Reserva de la Biosfera", "NUT2": 21, "SITE_CODE_": "ES213001", "DESIG_ABBR": "ES33", "SITE_CDDA": "63232_CDDA", "Sup_ha": 22038.610939900002 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3293642.65843000030145, 2333141.893470000941306 ], [ 3298250.917570000980049, 2333141.893470000941306 ], [ 3298250.917570000980049, 2327186.276529998984188 ], [ 3293642.65843000030145, 2327186.276529998984188 ], [ 3293642.65843000030145, 2333141.893470000941306 ] ] ] } }
+]
+}

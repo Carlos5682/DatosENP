@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Calafell",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "SITE_NAME": "Costes del Garraf", "ODESIGNATE": "Plan Especial de Protección (PEIN)", "NUT2": 51, "SITE_CODE_": "ES510251", "DESIG_ABBR": "ES43", "SITE_CDDA": "389228_CDDA", "Sup_ha": 26575.279314799998 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3616936.325880888849497, 2048505.339451631996781 ], [ 3617949.367049999069422, 2048583.210819963831455 ], [ 3617949.367049999069422, 2048246.86534999939613 ], [ 3616909.815684375353158, 2048246.86534999939613 ], [ 3616936.325880888849497, 2048505.339451631996781 ] ] ] } }
+]
+}

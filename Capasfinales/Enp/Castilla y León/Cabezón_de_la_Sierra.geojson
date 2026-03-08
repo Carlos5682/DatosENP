@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Cabezón_de_la_Sierra",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "SITE_NAME": "Sabinares del Arlanza-La Yecla", "ODESIGNATE": "Parque Natural", "NUT2": 41, "SITE_CODE_": "ES412008", "DESIG_ABBR": "ES10", "SITE_CDDA": "555700943_CDDA", "Sup_ha": 39174.244633800001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3220023.38573000067845, 2192148.788564889226109 ], [ 3220023.38573000067845, 2192161.222970000933856 ], [ 3220052.897251795511693, 2192161.222970000933856 ], [ 3220023.38573000067845, 2192148.788564889226109 ] ] ] } }
+]
+}

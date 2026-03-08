@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Mora_de_Rubielos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

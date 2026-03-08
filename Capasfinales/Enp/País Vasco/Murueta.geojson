@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Murueta",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "SITE_NAME": "Urdaibai", "ODESIGNATE": "Reserva de la Biosfera", "NUT2": 21, "SITE_CODE_": "ES213001", "DESIG_ABBR": "ES33", "SITE_CDDA": "63232_CDDA", "Sup_ha": 22038.610939900002 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3293118.80728500103578, 2338976.555614999029785 ], [ 3297559.422814999241382, 2338976.555614999029785 ], [ 3297559.422814999241382, 2334975.015185 ], [ 3293118.80728500103578, 2334975.015185 ], [ 3293118.80728500103578, 2338976.555614999029785 ] ] ] } }
+]
+}

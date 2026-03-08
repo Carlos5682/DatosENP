@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Huesa_del_Común",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

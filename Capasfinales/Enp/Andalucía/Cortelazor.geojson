@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Cortelazor",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "SITE_NAME": "Sierra de Aracena y Picos de Aroche", "ODESIGNATE": "Parque Natural", "NUT2": 61, "SITE_CODE_": "ES615011", "DESIG_ABBR": "ES10", "SITE_CDDA": "20938_CDDA", "Sup_ha": 186616.11062699999 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2857300.805500000249594, 1818236.253200000617653 ], [ 2868168.2898, 1818236.253200000617653 ], [ 2868168.2898, 1805715.664599999319762 ], [ 2857300.805500000249594, 1805715.664599999319762 ], [ 2857300.805500000249594, 1818236.253200000617653 ] ] ] } },
+{ "type": "Feature", "properties": { "SITE_NAME": "Sierra de Aracena y Picos deAroche", "ODESIGNATE": "Zona de Importancia Comunitaria ZIC (ZEPA/ZEC)", "NUT2": 61, "SITE_CODE_": "ES0000051", "DESIG_ABBR": "ES49", "SITE_CDDA": "555588810_CDDA", "Sup_ha": 186773.78016200001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2857300.805500000249594, 1818236.253200000617653 ], [ 2868168.2898, 1818236.253200000617653 ], [ 2868168.2898, 1805715.664599999319762 ], [ 2857300.805500000249594, 1805715.664599999319762 ], [ 2857300.805500000249594, 1818236.253200000617653 ] ] ] } }
+]
+}

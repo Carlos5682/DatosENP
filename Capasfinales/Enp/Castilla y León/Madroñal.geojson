@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Madroñal",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "SITE_NAME": "Las Batuecas-Sierra de Francia", "ODESIGNATE": "Parque Natural", "NUT2": 41, "SITE_CODE_": "ES415001", "DESIG_ABBR": "ES10", "SITE_CDDA": "195786_CDDA", "Sup_ha": 31544.645480200001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2962546.911995000205934, 2075364.07080499920994 ], [ 2964563.885404999367893, 2075364.07080499920994 ], [ 2964563.885404999367893, 2072924.934494999237359 ], [ 2962546.911995000205934, 2072924.934494999237359 ], [ 2962546.911995000205934, 2075364.07080499920994 ] ] ] } }
+]
+}

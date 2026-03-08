@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Gineta,_La",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

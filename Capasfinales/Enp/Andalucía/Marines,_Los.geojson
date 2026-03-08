@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Marines,_Los",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "SITE_NAME": "Sierra de Aracena y Picos de Aroche", "ODESIGNATE": "Parque Natural", "NUT2": 61, "SITE_CODE_": "ES615011", "DESIG_ABBR": "ES10", "SITE_CDDA": "20938_CDDA", "Sup_ha": 186616.11062699999 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2858128.321159999351948, 1809920.69334 ], [ 2864400.149839999619871, 1809920.69334 ], [ 2864400.149839999619871, 1804136.836659999331459 ], [ 2858128.321159999351948, 1804136.836659999331459 ], [ 2858128.321159999351948, 1809920.69334 ] ] ] } },
+{ "type": "Feature", "properties": { "SITE_NAME": "Sierra de Aracena y Picos deAroche", "ODESIGNATE": "Zona de Importancia Comunitaria ZIC (ZEPA/ZEC)", "NUT2": 61, "SITE_CODE_": "ES0000051", "DESIG_ABBR": "ES49", "SITE_CDDA": "555588810_CDDA", "Sup_ha": 186773.78016200001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2858128.321159999351948, 1809920.69334 ], [ 2864400.149839999619871, 1809920.69334 ], [ 2864400.149839999619871, 1804136.836659999331459 ], [ 2858128.321159999351948, 1804136.836659999331459 ], [ 2858128.321159999351948, 1809920.69334 ] ] ] } }
+]
+}

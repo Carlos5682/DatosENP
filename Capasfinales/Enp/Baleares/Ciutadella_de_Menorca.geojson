@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Ciutadella_de_Menorca",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

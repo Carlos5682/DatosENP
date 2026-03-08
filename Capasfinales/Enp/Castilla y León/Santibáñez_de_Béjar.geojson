@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Santibáñez_de_Béjar",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

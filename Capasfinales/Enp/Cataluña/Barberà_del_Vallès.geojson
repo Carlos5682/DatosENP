@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Barberà_del_Vallès",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

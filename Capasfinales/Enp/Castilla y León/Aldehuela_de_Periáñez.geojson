@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Aldehuela_de_Periáñez",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

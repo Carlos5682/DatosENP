@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Cambrils",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "SITE_NAME": "Cap de Santes Creus-Litoral meridional tarragoní", "ODESIGNATE": "Plan Especial de Protección (PEIN)", "NUT2": 51, "SITE_CODE_": "ES510093", "DESIG_ABBR": "ES43", "SITE_CDDA": "389088_CDDA", "Sup_ha": 4700.9177571800001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3561549.889004668220878, 2038159.92540525784716 ], [ 3563374.60080799087882, 2038700.799529418814927 ], [ 3563797.016250318847597, 2037999.487694999668747 ], [ 3561245.290689861401916, 2037999.487694999668747 ], [ 3561549.889004668220878, 2038159.92540525784716 ] ] ] } }
+]
+}

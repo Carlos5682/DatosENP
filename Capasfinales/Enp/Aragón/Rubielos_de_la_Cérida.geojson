@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Rubielos_de_la_Cérida",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

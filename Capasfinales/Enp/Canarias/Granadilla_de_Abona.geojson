@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Granadilla_de_Abona",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

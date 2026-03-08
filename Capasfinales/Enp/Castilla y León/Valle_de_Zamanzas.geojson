@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Valle_de_Zamanzas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "SITE_NAME": "Hoces del Alto Ebro y Rudrón", "ODESIGNATE": "Parque Natural", "NUT2": 41, "SITE_CODE_": "ES412006", "DESIG_ABBR": "ES10", "SITE_CDDA": "389028_CDDA", "Sup_ha": 46346.615832700001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3197195.017579999286681, 2301447.202820000704378 ], [ 3204991.136619999539107, 2301447.202820000704378 ], [ 3204991.136619999539107, 2292509.576979998964816 ], [ 3197195.017579999286681, 2292509.576979998964816 ], [ 3197195.017579999286681, 2301447.202820000704378 ] ] ] } }
+]
+}

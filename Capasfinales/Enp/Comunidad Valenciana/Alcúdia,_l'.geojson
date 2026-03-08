@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Alcúdia,_l'",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "SITE_NAME": "Matamón", "ODESIGNATE": "Paraje Natural Municipal", "NUT2": 52, "SITE_CODE_": "ES523240", "DESIG_ABBR": "ES15", "SITE_CDDA": "555595658_CDDA", "Sup_ha": 692.56179788700001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3403379.423997063189745, 1857410.969290333334357 ], [ 3403319.655915561132133, 1857446.991585000418127 ], [ 3403480.940597626380622, 1857446.991585000418127 ], [ 3403379.423997063189745, 1857410.969290333334357 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Medrano",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "SITE_NAME": "Sierras de Demanda, Urbión, Cebollera y Cameros", "ODESIGNATE": "Espacio Protegido Red Natura 2000", "NUT2": 23, "SITE_CODE_": "ES230004", "DESIG_ABBR": "ES96", "SITE_CDDA": "389271_CDDA", "Sup_ha": 150081.53723700001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3286805.074722646735609, 2226188.272734577767551 ], [ 3286900.614110582042485, 2226055.306466507259756 ], [ 3287162.132841954939067, 2225955.36816646810621 ], [ 3287182.399190368130803, 2225936.952084999065846 ], [ 3286743.268984999042004, 2225936.952084999065846 ], [ 3286743.268984999042004, 2226179.965349328238517 ], [ 3286805.074722646735609, 2226188.272734577767551 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sukarrieta",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "SITE_NAME": "Urdaibai", "ODESIGNATE": "Reserva de la Biosfera", "NUT2": 21, "SITE_CODE_": "ES213001", "DESIG_ABBR": "ES33", "SITE_CDDA": "63232_CDDA", "Sup_ha": 22038.610939900002 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3292807.074319999665022, 2342016.271379999816418 ], [ 3296729.152480000630021, 2342016.271379999816418 ], [ 3296729.152480000630021, 2339292.017519999295473 ], [ 3292807.074319999665022, 2339292.017519999295473 ], [ 3292807.074319999665022, 2342016.271379999816418 ] ] ] } }
+]
+}

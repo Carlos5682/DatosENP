@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Pozuelo_de_Alarcón",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "SITE_NAME": "Cuenca Alta del Manzanares", "ODESIGNATE": "Parque Regional", "NUT2": 30, "SITE_CODE_": "ES310004", "DESIG_ABBR": "ES11", "SITE_CDDA": "349353_CDDA", "Sup_ha": 42583.239999799996 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3149341.98222151491791, 2038268.775862868409604 ], [ 3149259.73540267907083, 2038310.665727775078267 ], [ 3149240.814692046493292, 2038320.320545000722632 ], [ 3149296.749437963124365, 2038320.320545000722632 ], [ 3149341.98222151491791, 2038268.775862868409604 ] ] ] } }
+]
+}

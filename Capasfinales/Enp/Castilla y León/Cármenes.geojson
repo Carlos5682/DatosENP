@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Cármenes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "SITE_NAME": "Foces de El Pino", "ODESIGNATE": "Monumento Natural", "NUT2": 12, "SITE_CODE_": "ES120026", "DESIG_ABBR": "ES19", "SITE_CDDA": "348859_CDDA", "Sup_ha": 76.363276425099997 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3063519.197978710755706, 2349893.273244999814779 ], [ 3064551.562273223418742, 2349893.273244999814779 ], [ 3064658.065866674296558, 2349764.276726889424026 ], [ 3063373.027217116206884, 2349224.110537477768958 ], [ 3063519.197978710755706, 2349893.273244999814779 ] ] ] } }
+]
+}

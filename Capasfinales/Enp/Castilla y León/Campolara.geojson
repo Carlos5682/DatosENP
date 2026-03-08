@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Campolara",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "SITE_NAME": "Sabinares del Arlanza-La Yecla", "ODESIGNATE": "Parque Natural", "NUT2": 41, "SITE_CODE_": "ES412008", "DESIG_ABBR": "ES10", "SITE_CDDA": "555700943_CDDA", "Sup_ha": 39174.244633800001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3210983.707426119595766, 2208147.415398459415883 ], [ 3211007.01678326446563, 2208122.62717500096187 ], [ 3210978.344675000291318, 2208122.62717500096187 ], [ 3210978.344675000291318, 2208151.768210502807051 ], [ 3210983.707426119595766, 2208147.415398459415883 ] ] ] } }
+]
+}

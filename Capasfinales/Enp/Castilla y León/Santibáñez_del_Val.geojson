@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Santibáñez_del_Val",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "SITE_NAME": "Sabinares del Arlanza-La Yecla", "ODESIGNATE": "Parque Natural", "NUT2": 41, "SITE_CODE_": "ES412008", "DESIG_ABBR": "ES10", "SITE_CDDA": "555700943_CDDA", "Sup_ha": 39174.244633800001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3202222.6089500002563, 2201253.089950000867248 ], [ 3209432.287350000813603, 2201253.089950000867248 ], [ 3209432.287350000813603, 2192951.104049999266863 ], [ 3202222.6089500002563, 2192951.104049999266863 ], [ 3202222.6089500002563, 2201253.089950000867248 ] ] ] } }
+]
+}

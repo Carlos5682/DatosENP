@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Esparza_de_Salazar_o_Espartza_Zaraitzu",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

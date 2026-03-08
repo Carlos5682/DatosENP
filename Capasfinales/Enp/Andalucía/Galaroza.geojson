@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Galaroza",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "SITE_NAME": "Sierra de Aracena y Picos de Aroche", "ODESIGNATE": "Parque Natural", "NUT2": 61, "SITE_CODE_": "ES615011", "DESIG_ABBR": "ES10", "SITE_CDDA": "20938_CDDA", "Sup_ha": 186616.11062699999 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2851931.839669999666512, 1814881.536330000497401 ], [ 2861359.018730000592768, 1814881.536330000497401 ], [ 2861359.018730000592768, 1806590.180969999171793 ], [ 2851931.839669999666512, 1806590.180969999171793 ], [ 2851931.839669999666512, 1814881.536330000497401 ] ] ] } },
+{ "type": "Feature", "properties": { "SITE_NAME": "Sierra de Aracena y Picos deAroche", "ODESIGNATE": "Zona de Importancia Comunitaria ZIC (ZEPA/ZEC)", "NUT2": 61, "SITE_CODE_": "ES0000051", "DESIG_ABBR": "ES49", "SITE_CDDA": "555588810_CDDA", "Sup_ha": 186773.78016200001 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2851931.839669999666512, 1814881.536330000497401 ], [ 2861359.018730000592768, 1814881.536330000497401 ], [ 2861359.018730000592768, 1806590.180969999171793 ], [ 2851931.839669999666512, 1806590.180969999171793 ], [ 2851931.839669999666512, 1814881.536330000497401 ] ] ] } }
+]
+}

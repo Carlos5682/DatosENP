@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Berrocalejo_de_Aragona",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

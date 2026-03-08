@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Cardedeu",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "SITE_NAME": "Riu Congost", "ODESIGNATE": "Plan Especial de Protección (PEIN)", "NUT2": 51, "SITE_CODE_": "ES511014", "DESIG_ABBR": "ES43", "SITE_CDDA": "555546236_CDDA", "Sup_ha": 358.40142096699998 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3679853.699174268171191, 2095453.375045772874728 ], [ 3679810.132165557239205, 2095357.315223933197558 ], [ 3679787.5052549992688, 2095332.314379325602204 ], [ 3679787.5052549992688, 2095470.833282133098692 ], [ 3679853.699174268171191, 2095453.375045772874728 ] ] ] } }
+]
+}

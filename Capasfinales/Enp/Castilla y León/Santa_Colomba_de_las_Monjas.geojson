@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Santa_Colomba_de_las_Monjas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

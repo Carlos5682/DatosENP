@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Santa_María_Rivarredonda",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "SITE_NAME": "Montes Obarenes-San Zadornil", "ODESIGNATE": "Parque Natural", "NUT2": 41, "SITE_CODE_": "ES412003", "DESIG_ABBR": "ES10", "SITE_CDDA": "389020_CDDA", "Sup_ha": 33061.349020499998 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3245443.360925848595798, 2267983.83382784947753 ], [ 3245441.757046777755022, 2267993.793948492500931 ], [ 3245441.748442573472857, 2267993.832690772134811 ], [ 3245434.202696940395981, 2268005.84584999922663 ], [ 3245447.35035000089556, 2268005.84584999922663 ], [ 3245447.35035000089556, 2267981.24047107854858 ], [ 3245443.360925848595798, 2267983.83382784947753 ] ] ] } }
+]
+}

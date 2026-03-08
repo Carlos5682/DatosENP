@@ -129,7 +129,7 @@ procesar_comunidad <- function(comunidad_objetivo) {
   dir_out <- paste0("Capasfinales/Enp/", comunidad_objetivo)
   
   if (!file.exists(enp_path)) {
-    return(paste0("⚠ Archivo suelos no encontrado para ", comunidad_objetivo))
+    return(paste0("⚠ Archivo enp no encontrado para ", comunidad_objetivo))
   }
   
   dir.create(dir_out, showWarnings = FALSE, recursive = TRUE)

@@ -198,4 +198,4 @@ procesar_comunidad <- function(comunidad_objetivo) {
 ##----------------------------2.5 Ejecutar en paralelo-------------------
 resultados_totales <- future_lapply(comunidades, procesar_comunidad)
 ##----------------------------2.6 Resumen final--------------------------
-cat("\n✅ Procesamiento completado.\n")
+cat("\n✅ Procesamiento completado.\n")g

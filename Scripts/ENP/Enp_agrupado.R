@@ -33,17 +33,64 @@ enp <- st_make_valid(enp)
 enp <-  st_transform(enp, 3035)
 
 
+####--------------------1.1.4 Agrupación y leyenda----------------
+
+#para reagruparlos en categorias nos basamos en los metadatos de la capa
+meta <- data.frame(
+  DESIG_ABBR = c("ES21","ES03","ES35","ES24","ES40","ES53","ES97","ES52","ES51","ES18","ES96","ES34",
+                 "ES17","ES32","ES19","ES20","ES94","ES13","ES14","ES15","ES25","ES08","ES10","ES09",
+                 "ES12","ES11","ES92","ES43","ES98","ES33","ES91","ES02","ES04","ES30","ES05","ES31",
+                 "ES01","ES07","ES06","ES93","ES16","ES55","ES49","ES48","ES54","ES56","ES50"),
+  ENP_GRAL = c(6,7,6,6,6,6,6,6,6,6,5,6,6,6,3,3,4,6,6,6,6,8,1,1,1,1,1,6,6,6,6,6,2,2,2,2,2,2,2,6,6,6,5,5,6,6,6)
+)    
+
+enp <- enp %>%      
+  left_join(meta, by = "DESIG_ABBR")
+
+enp <- enp %>%
+  group_by(ENP_GRAL) %>%
+  summarise()
+
+enp_names <- data.frame(
+  ENP_GRAL = c(8,1,2,3,4,5,6,7),
+  ENP_GRAL_NAME = c(
+    "Parques Nacionales",
+    "Otros Parques",
+    "Reservas Naturales",
+    "Monumentos Naturales",
+    "Paisajes Protegidos",
+    "Espacios Protegidos Red Natura 2000",
+    "Otros Espacios Naturales Protegidos",
+    "Area Marina Protegida"
+  )
+)
+
+enp <- enp %>%
+  left_join(enp_names, by = "ENP_GRAL")
+#Leyenda extraida de los metadatos de la capa
+leyenda_enp <- data.frame(
+  ENP_GRAL = c(
+    1,2,3,4,5,6,7,8
+  ),
+  color = c(
+    "#38A800", "#FFD37F", "#AAFF00","#73004C", "#A87000", "#7F8F0D", "#E6FFFF","#E60000" 
+  )
+)
+
+enp<- left_join(enp, leyenda_enp, by = c("ENP_GRAL" = "ENP_GRAL"))
+
+
 ####------------------1.1.4 Guardar capa final-------------------
 
 st_write(enp, 
-         dsn = "Datos/Datoscorregidos/ENPcorregido/enpcorregido.gpkg", 
+         dsn = "Datos/Datoscorregidos/ENPcorregido/enpagrupadocorregido.gpkg", 
          driver = "GPKG", 
          delete_layer = TRUE)
 
 
 ##---------------------------------------1.2 Bucle para las comunidades autonomas------------------------------------
 
-enpfinal <- st_read("Datos/Datoscorregidos/ENPcorregido/enpcorregido.gpkg")
+enpfinal <- st_read("Datos/Datoscorregidos/ENPcorregido/enpagrupadocorregido.gpkg")
 
 ####-------------1.2.1 Obtener comunidades autónomas---------
 ccaa_sf <- esp_get_ccaa(moveCAN = FALSE, epsg = 3035)
@@ -85,7 +132,7 @@ for (i in 1:nrow(ccaa_sf)) {
   enp_crop <- st_intersection(enpfinal, bbox_poly)
   
   ####------------1.2.5 Guardar como GeoPackage---------------
-  st_write(enp_crop, paste0("Datos/DatosporComunidad/Enp/", nombre_ccaa, ".gpkg"), delete_dsn = TRUE)
+  st_write(enp_crop, paste0("Datos/DatosporComunidad/Enpagrupado/", nombre_ccaa, ".gpkg"), delete_dsn = TRUE)
 }
 
 
@@ -125,8 +172,8 @@ procesar_comunidad <- function(comunidad_objetivo) {
   
   ###-----------------------2.4.3 Ruta de enp por comunidad---------------
   
-  enp_path <- paste0("Datos/DatosporComunidad/Enp/", comunidad_objetivo, ".gpkg")
-  dir_out <- paste0("Capasfinales/Enp/", comunidad_objetivo)
+  enp_path <- paste0("Datos/DatosporComunidad/Enpagrupado/", comunidad_objetivo, ".gpkg")
+  dir_out <- paste0("Capasfinales/Enpagrupado/", comunidad_objetivo)
   
   if (!file.exists(enp_path)) {
     return(paste0("⚠ Archivo enp no encontrado para ", comunidad_objetivo))
@@ -199,4 +246,6 @@ procesar_comunidad <- function(comunidad_objetivo) {
 resultados_totales <- future_lapply(comunidades, procesar_comunidad)
 ##----------------------------2.6 Resumen final--------------------------
 cat("\n✅ Procesamiento completado.\n")
+
+
 

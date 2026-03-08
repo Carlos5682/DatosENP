@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Berzosa_del_Lozoya",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

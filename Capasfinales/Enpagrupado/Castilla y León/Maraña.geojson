@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Maraña",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "ENP_GRAL": 1.0, "ENP_GRAL_NAME": "Otros Parques", "color": "#38A800" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3084430.188325, 2347058.650175000540912 ], [ 3094586.560674999840558, 2347058.650175000540912 ], [ 3094586.560674999840558, 2336684.210125000216067 ], [ 3084430.188325, 2336684.210125000216067 ], [ 3084430.188325, 2347058.650175000540912 ] ] ] } }
+]
+}

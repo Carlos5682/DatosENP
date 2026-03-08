@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Cardedeu",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "ENP_GRAL": 6.0, "ENP_GRAL_NAME": "Otros Espacios Naturales Protegidos", "color": "#7F8F0D" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3679853.699174268171191, 2095453.375045772874728 ], [ 3679810.132165557239205, 2095357.315223933197558 ], [ 3679787.5052549992688, 2095332.314379325602204 ], [ 3679787.5052549992688, 2095470.833282133098692 ], [ 3679853.699174268171191, 2095453.375045772874728 ] ] ] } }
+]
+}

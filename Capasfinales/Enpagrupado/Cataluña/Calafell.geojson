@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Calafell",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "ENP_GRAL": 6.0, "ENP_GRAL_NAME": "Otros Espacios Naturales Protegidos", "color": "#7F8F0D" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3616936.325880888849497, 2048505.339451631996781 ], [ 3617949.367049999069422, 2048583.210819963831455 ], [ 3617949.367049999069422, 2048246.86534999939613 ], [ 3616909.815684375353158, 2048246.86534999939613 ], [ 3616936.325880888849497, 2048505.339451631996781 ] ] ] } }
+]
+}

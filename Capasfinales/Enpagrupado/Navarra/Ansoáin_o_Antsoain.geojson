@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Ansoáin_o_Antsoain",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

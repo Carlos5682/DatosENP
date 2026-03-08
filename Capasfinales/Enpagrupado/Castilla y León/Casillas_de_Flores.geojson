@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Casillas_de_Flores",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

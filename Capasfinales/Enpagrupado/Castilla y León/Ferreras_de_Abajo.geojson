@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Ferreras_de_Abajo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Murueta",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "ENP_GRAL": 6.0, "ENP_GRAL_NAME": "Otros Espacios Naturales Protegidos", "color": "#7F8F0D" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3293118.80728500103578, 2338976.555614999029785 ], [ 3297559.422814999241382, 2338976.555614999029785 ], [ 3297559.422814999241382, 2334975.015185 ], [ 3293118.80728500103578, 2334975.015185 ], [ 3293118.80728500103578, 2338976.555614999029785 ] ] ] } }
+]
+}

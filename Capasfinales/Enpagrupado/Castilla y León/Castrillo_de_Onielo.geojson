@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Castrillo_de_Onielo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

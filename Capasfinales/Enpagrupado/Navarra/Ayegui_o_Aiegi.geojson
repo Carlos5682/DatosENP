@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Ayegui_o_Aiegi",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

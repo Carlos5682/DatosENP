@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Monforte_de_la_Sierra",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "ENP_GRAL": 1.0, "ENP_GRAL_NAME": "Otros Parques", "color": "#38A800" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2962039.444434999488294, 2077508.495165000669658 ], [ 2966068.996065001003444, 2077508.495165000669658 ], [ 2966068.996065001003444, 2074368.208235000260174 ], [ 2962039.444434999488294, 2074368.208235000260174 ], [ 2962039.444434999488294, 2077508.495165000669658 ] ] ] } }
+]
+}

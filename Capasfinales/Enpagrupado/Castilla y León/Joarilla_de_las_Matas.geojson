@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Joarilla_de_las_Matas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

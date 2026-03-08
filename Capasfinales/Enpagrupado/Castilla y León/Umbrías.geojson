@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Umbrías",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "ENP_GRAL": 1.0, "ENP_GRAL_NAME": "Otros Parques", "color": "#38A800" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2998167.096829999703914, 2052613.837270000483841 ], [ 3003740.734070000704378, 2052613.837270000483841 ], [ 3003740.734070000704378, 2045889.361329999286681 ], [ 2998167.096829999703914, 2045889.361329999286681 ], [ 2998167.096829999703914, 2052613.837270000483841 ] ] ] } }
+]
+}

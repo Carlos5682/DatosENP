@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Cubo_de_Tierra_del_Vino,_El",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

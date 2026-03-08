@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Ribera_Baja_o_Erribera_Beitia",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

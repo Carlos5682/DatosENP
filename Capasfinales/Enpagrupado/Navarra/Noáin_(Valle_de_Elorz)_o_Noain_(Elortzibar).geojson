@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Noáin_(Valle_de_Elorz)_o_Noain_(Elortzibar)",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Añover_de_Tormes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

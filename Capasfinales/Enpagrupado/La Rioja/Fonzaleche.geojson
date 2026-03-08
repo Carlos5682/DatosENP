@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Fonzaleche",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "ENP_GRAL": 5.0, "ENP_GRAL_NAME": "Espacios Protegidos Red Natura 2000", "color": "#A87000" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3260420.274950829334557, 2259993.181299820542336 ], [ 3260396.101986572146416, 2260005.019297989085317 ], [ 3260370.520997371058911, 2260033.708015 ], [ 3260466.485415, 2260033.708015 ], [ 3260466.485415, 2259984.441371941473335 ], [ 3260420.274950829334557, 2259993.181299820542336 ] ] ] } }
+]
+}

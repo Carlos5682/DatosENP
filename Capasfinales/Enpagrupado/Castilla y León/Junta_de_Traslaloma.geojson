@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Junta_de_Traslaloma",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

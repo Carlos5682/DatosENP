@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Bustillo_del_Páramo_de_Carrión",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

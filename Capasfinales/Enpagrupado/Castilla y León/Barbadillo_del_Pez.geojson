@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Barbadillo_del_Pez",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

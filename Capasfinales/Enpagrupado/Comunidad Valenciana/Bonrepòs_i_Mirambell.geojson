@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Bonrepòs_i_Mirambell",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

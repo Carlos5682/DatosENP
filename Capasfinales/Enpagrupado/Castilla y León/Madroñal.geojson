@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Madroñal",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "ENP_GRAL": 1.0, "ENP_GRAL_NAME": "Otros Parques", "color": "#38A800" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2962546.911995000205934, 2075364.07080499920994 ], [ 2964563.885404999367893, 2075364.07080499920994 ], [ 2964563.885404999367893, 2072924.934494999237359 ], [ 2962546.911995000205934, 2072924.934494999237359 ], [ 2962546.911995000205934, 2075364.07080499920994 ] ] ] } }
+]
+}

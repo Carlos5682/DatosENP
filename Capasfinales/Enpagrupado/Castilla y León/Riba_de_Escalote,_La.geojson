@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Riba_de_Escalote,_La",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

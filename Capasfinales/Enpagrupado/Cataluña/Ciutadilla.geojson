@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Ciutadilla",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "ENP_GRAL": 6.0, "ENP_GRAL_NAME": "Otros Espacios Naturales Protegidos", "color": "#7F8F0D" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3583175.369075438473374, 2096701.286604775581509 ], [ 3583149.800444053951651, 2096742.727288196794689 ], [ 3583140.652062617707998, 2096757.680285000707954 ], [ 3583247.161952501162887, 2096757.680285000707954 ], [ 3583175.369075438473374, 2096701.286604775581509 ] ] ] } }
+]
+}

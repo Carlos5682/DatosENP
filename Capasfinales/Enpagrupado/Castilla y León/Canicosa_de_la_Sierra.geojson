@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Canicosa_de_la_Sierra",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

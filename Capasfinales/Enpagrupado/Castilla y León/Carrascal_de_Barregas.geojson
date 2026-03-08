@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Carrascal_de_Barregas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

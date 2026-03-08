@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Peñas_de_San_Pedro",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

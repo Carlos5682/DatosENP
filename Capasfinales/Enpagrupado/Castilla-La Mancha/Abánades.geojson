@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Abánades",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "ENP_GRAL": 6.0, "ENP_GRAL_NAME": "Otros Espacios Naturales Protegidos", "color": "#7F8F0D" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3270974.124150761403143, 2065411.718932435382158 ], [ 3270978.278729958459735, 2065504.12653733137995 ], [ 3271070.197055269032717, 2065502.225581246428192 ], [ 3271085.532877543475479, 2065419.863208902534097 ], [ 3270974.124150761403143, 2065411.718932435382158 ] ] ] } }
+]
+}

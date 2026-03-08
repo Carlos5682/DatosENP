@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Campolara",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "ENP_GRAL": 1.0, "ENP_GRAL_NAME": "Otros Parques", "color": "#38A800" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3210983.707426119595766, 2208147.415398459415883 ], [ 3211007.01678326446563, 2208122.62717500096187 ], [ 3210978.344675000291318, 2208122.62717500096187 ], [ 3210978.344675000291318, 2208151.768210502807051 ], [ 3210983.707426119595766, 2208147.415398459415883 ] ] ] } }
+]
+}

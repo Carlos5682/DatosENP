@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sukarrieta",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "ENP_GRAL": 6.0, "ENP_GRAL_NAME": "Otros Espacios Naturales Protegidos", "color": "#7F8F0D" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3292807.074319999665022, 2342016.271379999816418 ], [ 3296729.152480000630021, 2342016.271379999816418 ], [ 3296729.152480000630021, 2339292.017519999295473 ], [ 3292807.074319999665022, 2339292.017519999295473 ], [ 3292807.074319999665022, 2342016.271379999816418 ] ] ] } }
+]
+}

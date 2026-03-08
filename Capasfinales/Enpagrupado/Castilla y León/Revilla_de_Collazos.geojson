@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Revilla_de_Collazos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

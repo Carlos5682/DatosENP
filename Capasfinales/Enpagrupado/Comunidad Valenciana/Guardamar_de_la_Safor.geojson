@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Guardamar_de_la_Safor",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

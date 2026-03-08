@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Villamiel_de_Toledo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

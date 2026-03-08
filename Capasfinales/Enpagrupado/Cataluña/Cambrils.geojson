@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Cambrils",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "ENP_GRAL": 6.0, "ENP_GRAL_NAME": "Otros Espacios Naturales Protegidos", "color": "#7F8F0D" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3561549.889004668220878, 2038159.92540525784716 ], [ 3563374.60080799087882, 2038700.799529418814927 ], [ 3563797.016250318847597, 2037999.487694999668747 ], [ 3561245.290689861401916, 2037999.487694999668747 ], [ 3561549.889004668220878, 2038159.92540525784716 ] ] ] } }
+]
+}

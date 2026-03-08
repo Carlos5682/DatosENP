@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Daya_Vieja",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+
+]
+}

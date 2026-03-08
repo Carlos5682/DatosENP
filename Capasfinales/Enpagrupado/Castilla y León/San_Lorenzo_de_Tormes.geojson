@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "San_Lorenzo_de_Tormes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "ENP_GRAL": 1.0, "ENP_GRAL_NAME": "Otros Parques", "color": "#38A800" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3005924.059497264679521, 2050889.914395000785589 ], [ 3005875.221495000645518, 2050889.914395000785589 ], [ 3005875.221495000645518, 2050952.545633785426617 ], [ 3005924.059497264679521, 2050889.914395000785589 ] ] ] } }
+]
+}

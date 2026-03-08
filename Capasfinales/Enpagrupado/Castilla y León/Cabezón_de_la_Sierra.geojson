@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Cabezón_de_la_Sierra",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "ENP_GRAL": 1.0, "ENP_GRAL_NAME": "Otros Parques", "color": "#38A800" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3220023.38573000067845, 2192148.788564889226109 ], [ 3220023.38573000067845, 2192161.222970000933856 ], [ 3220052.897251795511693, 2192161.222970000933856 ], [ 3220023.38573000067845, 2192148.788564889226109 ] ] ] } }
+]
+}
